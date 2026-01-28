@@ -1,0 +1,6 @@
+
+{
+  "name": "Crypto Sentinel Dashboard",
+  "description": "An advanced monitoring dashboard for CoinMarketCap Fresh Signals, Ourbit, and MEXC new listings, featuring real-time parsing, data visualization, and history tracking.",
+  "requestFramePermissions": []
+}
